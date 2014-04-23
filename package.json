@@ -13,6 +13,10 @@
 	  {
 		"name": "Imrane Dessai",
 		"email": "dessai.imrane@gmail.com"
+          },
+          {
+                "name": "Romain Forlot",
+                "email": "rforlot@yahoo.com"
 	  } 
 	],
 	"repository": "https://github.com/shinken-monitoring/pack-ftp",
